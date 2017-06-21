@@ -19,4 +19,3 @@ blog: aka.ms/sqlbobt
 twitter: @sqlboBT
 LinkedIn: https://www.linkedin.com/in/sqlbobt
 
-Last edited Aug 24, 2016 at 1:44 PM by MajikbyboB, version 3
