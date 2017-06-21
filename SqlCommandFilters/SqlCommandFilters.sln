@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlCommandFilters", "SqlCommandFilters\SqlCommandFilters.csproj", "{F1F4596C-2C54-4D84-8EF0-AFCF9696EAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametizerSample", "ParametizerSample\ParametizerSample.csproj", "{DBA31E59-5637-4C85-BAA0-C6C504994C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F4596C-2C54-4D84-8EF0-AFCF9696EAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F4596C-2C54-4D84-8EF0-AFCF9696EAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F4596C-2C54-4D84-8EF0-AFCF9696EAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F4596C-2C54-4D84-8EF0-AFCF9696EAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA31E59-5637-4C85-BAA0-C6C504994C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA31E59-5637-4C85-BAA0-C6C504994C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA31E59-5637-4C85-BAA0-C6C504994C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA31E59-5637-4C85-BAA0-C6C504994C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs41
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ParametizerSample\\ParametizerSample.csproj
+		SccProjectName1 = ParametizerSample
+		SccLocalPath1 = ParametizerSample
+		SccProjectUniqueName2 = SqlCommandFilters\\SqlCommandFilters.csproj
+		SccProjectName2 = SqlCommandFilters
+		SccLocalPath2 = SqlCommandFilters
+	EndGlobalSection
+EndGlobal
